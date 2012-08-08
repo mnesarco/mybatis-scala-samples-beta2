@@ -1,4 +1,5 @@
-Mybatis for Scala beta3
+Mybatis for Scala beta2
+
 Code samples
 
 Maven and SBT are supported.
